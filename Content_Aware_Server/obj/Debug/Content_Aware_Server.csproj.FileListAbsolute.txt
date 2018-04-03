@@ -1,0 +1,15 @@
+D:\GATSAN Technologies\GATSAN Technologies\Projects\Content_Aware_Server\Content_Aware_Server\bin\Debug\Content_Aware_Server.exe.config
+D:\GATSAN Technologies\GATSAN Technologies\Projects\Content_Aware_Server\Content_Aware_Server\bin\Debug\Content_Aware_Server.exe
+D:\GATSAN Technologies\GATSAN Technologies\Projects\Content_Aware_Server\Content_Aware_Server\bin\Debug\Content_Aware_Server.pdb
+D:\GATSAN Technologies\GATSAN Technologies\Projects\Content_Aware_Server\Content_Aware_Server\obj\Debug\Content_Aware_Server.Form1.resources
+D:\GATSAN Technologies\GATSAN Technologies\Projects\Content_Aware_Server\Content_Aware_Server\obj\Debug\Content_Aware_Server.Properties.Resources.resources
+D:\GATSAN Technologies\GATSAN Technologies\Projects\Content_Aware_Server\Content_Aware_Server\obj\Debug\Content_Aware_Server.csproj.GenerateResource.Cache
+D:\GATSAN Technologies\GATSAN Technologies\Projects\Content_Aware_Server\Content_Aware_Server\obj\Debug\Content_Aware_Server.exe
+D:\GATSAN Technologies\GATSAN Technologies\Projects\Content_Aware_Server\Content_Aware_Server\obj\Debug\Content_Aware_Server.pdb
+D:\GATSAN Technologies\GATSAN Technologies\Projects\Content_Aware_Server\Content_Aware_Server\obj\Debug\Content_Aware_Server.notification_modify.resources
+D:\GATSAN Technologies\GATSAN Technologies\Projects\Content_Aware_Server\Content_Aware_Server\obj\Debug\Content_Aware_Server.csprojResolveAssemblyReference.cache
+D:\GATSAN Technologies\GATSAN Technologies\Projects\Content_Aware_Server\Content_Aware_Server\obj\Debug\Content_Aware_Server.server_add.resources
+D:\GATSAN Technologies\GATSAN Technologies\Projects\Content_Aware_Server\Content_Aware_Server\obj\Debug\Content_Aware_Server.server_modify.resources
+D:\GATSAN Technologies\GATSAN Technologies\Projects\Content_Aware_Server\Content_Aware_Server\obj\Debug\Content_Aware_Server.server_view.resources
+D:\GATSAN Technologies\GATSAN Technologies\Projects\Content_Aware_Server\Content_Aware_Server\obj\Debug\Content_Aware_Server.notification_view.resources
+D:\GATSAN Technologies\GATSAN Technologies\Projects\Content_Aware_Server\Content_Aware_Server\obj\Debug\Content_Aware_Server.notification_add.resources
